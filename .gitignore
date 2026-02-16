@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+.~*
+
+# Private notes (keep sensitive info out of public repo)
+private/
+notes/sensitive/
+
+# Screenshots with sensitive info
+screenshots/sensitive/
